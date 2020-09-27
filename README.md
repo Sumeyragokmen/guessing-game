@@ -1,3 +1,4 @@
+```
 # guessing-game
 # the games of finding the number that computer holds
 
@@ -8,3 +9,4 @@
 # finally writes total points on the screen
 
 end of program
+```
